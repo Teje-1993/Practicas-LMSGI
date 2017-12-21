@@ -37,8 +37,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practica13/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="53" lean-forward="false" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+            <state relative-caret-position="510">
+              <caret line="84" column="17" lean-forward="true" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -124,19 +124,6 @@
               <item name="Practicas-LMSGI" type="462c0819:PsiDirectoryNode" />
               <item name="practica13" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Practicas-LMSGI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practicas-LMSGI" type="462c0819:PsiDirectoryNode" />
-              <item name="practica13" type="462c0819:PsiDirectoryNode" />
-              <item name="guerras" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Practicas-LMSGI" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Practicas-LMSGI" type="462c0819:PsiDirectoryNode" />
-              <item name="practica13" type="462c0819:PsiDirectoryNode" />
-              <item name="guerras" type="462c0819:PsiDirectoryNode" />
-              <item name="mundiales" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -178,12 +165,12 @@
       <workItem from="1512028598473" duration="689000" />
       <workItem from="1513236766118" duration="2475000" />
       <workItem from="1513239473634" duration="3241000" />
-      <workItem from="1513842209649" duration="3037000" />
+      <workItem from="1513842209649" duration="4620000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10776000" />
+    <option name="totallyTimeSpent" value="12359000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -296,8 +283,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/practica13/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="53" lean-forward="false" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+        <state relative-caret-position="510">
+          <caret line="84" column="17" lean-forward="true" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
           <folding />
         </state>
       </provider>
