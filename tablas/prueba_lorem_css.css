@@ -1,0 +1,9 @@
+.rojo{color: red;
+
+}
+
+.grande{
+    font-size: 4em;
+}
+h1 strong{color: blue;}
+p[lang^="en"]{font-style: italic}
